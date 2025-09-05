@@ -2,7 +2,9 @@
 This assignment evaluates your understanding of computer networks and data communication principles through practical tasks involving network design, signal quantization, and professional reporting.
 
 Total Marks: 20 (20% of overall course grade)
+
 =============================================
+
 This is the COSC1111/COSC3113 Flexible Semester, 2025 Assignment 1 assignment I'm tutoring. I'm very familiar with Cisco Packet Tracer. If you're confused about this assignment, please contact me.
 我已经完成了这个作业，如果你需要帮助，请联系我
 
